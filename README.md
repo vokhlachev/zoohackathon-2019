@@ -5,7 +5,7 @@
 
   <h3 align="center"> ZOOHACKATHON 2019</h3>
   
-  <a href="https://ibb.co/V33vdWP"><img src="https://i.ibb.co/R77C1pV/logo.jpg" alt="logo" border="0"></a><br /><a target='_blank' href='https://imgbb.com/upload'>upload</a><br />
+  <a href="https://ibb.co/V33vdWP"><img src="https://i.ibb.co/R77C1pV/logo.jpg" alt="logo" </a>
 <br />
  </p>
 
