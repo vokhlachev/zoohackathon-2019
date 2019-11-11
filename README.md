@@ -64,7 +64,7 @@ npm install
 4. Enjoy! :smile:
 
 ## More info:
-* [Poject link on Dev Post] (https://devpost.com/software/timber-token)
+* [Poject link on Dev Post](https://devpost.com/software/timber-token)
 
 ## Contact
 
