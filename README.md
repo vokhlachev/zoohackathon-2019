@@ -13,8 +13,7 @@
 <br />
 <a href="https://ibb.co/CWM0Wdc"><img src="https://i.ibb.co/yVYsVT9/promo.jpg" alt="promo" border="0"></a>
 <br />
-Korkeasaari Zoo and U.S. Embassy in Helsinki are proud to host the first ever Zoohackathon in Finland and in the Nordics. The Zoohackathon is a computer coding and technology intensive event that brings together developers, designers, project managers, and subject matter experts to create applications, systems, and tools to help reduce demand for trafficked wildlife products.Korkeasaari will provide some inspiring behind the scenes activities for breaks throughout the days and you will be coding right next to brown bears. Registration is free of charge and the space is limited, so scroll down and register now!
-Winning team will be rewarded with 2 000 €, and there’s a chance to win global pizes as well!
+Korkeasaari Zoo and U.S. Embassy in Helsinki are proud to host the first ever Zoohackathon in Finland and in the Nordics. The Zoohackathon is a computer coding and technology intensive event that brings together developers, designers, project managers, and subject matter experts to create applications, systems, and tools to help reduce demand for trafficked wildlife products.Korkeasaari will provide some inspiring behind the scenes activities for breaks throughout the days and you will be coding right next to brown bears. Winning team will be rewarded with 2 000 €, and there’s a chance to win global pizes as well!
 
 <h2 align="center">TIMBER TOKEN: crypto certification token embedded in your log! </h2>
 <br />
