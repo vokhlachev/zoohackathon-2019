@@ -1,81 +1,72 @@
-## Prototype allows:
-* Issuing 10 initial QR codes
-* Viewing data related to codes and QR Code images
-* Issuing subproducts with single parent
-* Viewing ancestry of products
+[![forthebadge](https://forthebadge.com/images/badges/uses-js.svg)](https://en.wikipedia.org/wiki/JavaScript)
 
-## TODO:
-* Show descendants of products
-* More data fields
-* Multiple parents for subproducts
+<br />
+<p align="center">
+
+  <h3 align="center"> ZOOHACKATHON 2019</h3>
+  
+  <a href="https://ibb.co/V33vdWP"><img src="https://i.ibb.co/R77C1pV/logo.jpg" alt="logo" border="0"></a><br /><a target='_blank' href='https://imgbb.com/upload'>upload</a><br />
+<br />
+ </p>
+
+<h2 align="center">Practice w (minimalist web framework for Node JS) </h2>
+<br />
+This is online store for selling programming courses, written with Express JS. In this project I am practicing to do:
+
+* Connecting Handlebars JS (templating engine for JS)
+
+* Setting of Layout with Materialize CSS (modern responsive CSS framework, based on Material Design by Google)
+
+* Adding navbar to this app
+
+* Data rendering with Handlebars JS
+
+* Routes registration 
+
+* Making forms
+
+* Creating models, using UUID package
+
+* Creating courses card with Materialize CSS card
+
+* Connecting client's scripts (currency)
+
+* Creating new layouts with dynamic's paramether's (course's page in new tab)
+
+* Creating 'EDIT' course page
+
+* Creating 'CART' and making dynamic changes on it
+
+### Built with:
+* [EXPRESS JS](http://expressjs.com/)
+* [NODEMON](https://www.npmjs.com/package/nodemon)
+* [HANDLEBARS JS](https://handlebarsjs.com/)
+* [MATERIALIZE CSS](https://materializecss.com/)
+* [UUID](https://www.npmjs.com/package/uuid)
+
+### Prerequisites:
+
+For running this project you need NPM
+
+* npm
+```sh
+npm install npm@latest -g
+```
+
+### Installation
+
+1. Clone the repo or download it into your local machine
+```sh
+https://github.com/vokhlachev/expressjs-store.git
+```
+3. Run NPM in into project folder to get all packages and dependencies from package.json
+```sh
+npm install 
+```
+4. Enjoy! :smile:
+
+## Contact
+
+Nikolay Vokhlachev - nikolay.vokhlachev@gmail.com
 
 
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `yarn start`
-
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
-
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
-
-### `yarn test`
-
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `yarn build`
-
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `yarn eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (Webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
-
-### Analyzing the Bundle Size
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
-
-### Advanced Configuration
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `yarn build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
